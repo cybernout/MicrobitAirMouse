@@ -11,7 +11,10 @@ there are 2 pieces of code to get it working :
    i suggest you use the online microbit editor to do this
    its a makecode hex file, on the to do list is a micropython version.
    
-   
+   ( check pyserial on your device : python3 -m pip show pyserial
+     install if needed : sudo pip3 install pyserial              )
+     
+     
    
    
    
